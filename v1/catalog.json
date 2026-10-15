@@ -1,0 +1,67 @@
+{
+ "format": 1,
+ "assetBase": "https://luminwis-commits.github.io/toktokcolorbook-content/v1/files/",
+ "categories": [
+  {
+   "id": "nature",
+   "title": "자연 풍경",
+   "titleEn": "Nature"
+  },
+  {
+   "id": "sea",
+   "title": "바다",
+   "titleEn": "Ocean"
+  },
+  {
+   "id": "city",
+   "title": "도시·마을",
+   "titleEn": "Towns"
+  },
+  {
+   "id": "flowers",
+   "title": "꽃·정원",
+   "titleEn": "Flowers"
+  },
+  {
+   "id": "animals",
+   "title": "동물",
+   "titleEn": "Animals"
+  },
+  {
+   "id": "interior",
+   "title": "아늑한 실내",
+   "titleEn": "Cozy Rooms"
+  },
+  {
+   "id": "food",
+   "title": "음식·디저트",
+   "titleEn": "Food"
+  },
+  {
+   "id": "seasons",
+   "title": "계절·명절",
+   "titleEn": "Seasons"
+  },
+  {
+   "id": "travel",
+   "title": "탈것·여행",
+   "titleEn": "Travel"
+  },
+  {
+   "id": "fantasy",
+   "title": "판타지·밤하늘",
+   "titleEn": "Fantasy"
+  },
+  {
+   "id": "people",
+   "title": "인물",
+   "titleEn": "People"
+  },
+  {
+   "id": "art",
+   "title": "아트",
+   "titleEn": "Art Styles"
+  }
+ ],
+ "pictures": []
+}
