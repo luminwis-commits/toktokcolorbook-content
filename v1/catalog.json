@@ -701,6 +701,642 @@
    ]
   },
   {
+   "id": "nature_21",
+   "title": "양봉장",
+   "titleEn": "Apiary",
+   "category": "nature",
+   "thumb": "nature_21_thumb.webp",
+   "art": "nature_21_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#B0965B",
+    "#818C54"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_nature_21",
+     "file": "nature_21_lv1.json.gz",
+     "regions": 9,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_nature_21",
+     "file": "nature_21_lv2.json.gz",
+     "regions": 37,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_nature_21",
+     "file": "nature_21_lv3.json.gz",
+     "regions": 109,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_nature_21",
+     "file": "nature_21_lv4.json.gz",
+     "regions": 260,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_nature_21",
+     "file": "nature_21_lv5.json.gz",
+     "regions": 650,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "nature_22",
+   "title": "주상절리 해안",
+   "titleEn": "Basalt Columns",
+   "category": "nature",
+   "thumb": "nature_22_thumb.webp",
+   "art": "nature_22_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#334852",
+    "#697C5F"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_nature_22",
+     "file": "nature_22_lv1.json.gz",
+     "regions": 19,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_nature_22",
+     "file": "nature_22_lv2.json.gz",
+     "regions": 59,
+     "colors": 9
+    },
+    {
+     "level": 3,
+     "id": "lv3_nature_22",
+     "file": "nature_22_lv3.json.gz",
+     "regions": 157,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_nature_22",
+     "file": "nature_22_lv4.json.gz",
+     "regions": 291,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_nature_22",
+     "file": "nature_22_lv5.json.gz",
+     "regions": 650,
+     "colors": 47
+    }
+   ]
+  },
+  {
+   "id": "nature_23",
+   "title": "바오밥 나무길",
+   "titleEn": "Baobab Avenue",
+   "category": "nature",
+   "thumb": "nature_23_thumb.webp",
+   "art": "nature_23_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#CE6B43",
+    "#EE9474"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_nature_23",
+     "file": "nature_23_lv1.json.gz",
+     "regions": 11,
+     "colors": 3
+    },
+    {
+     "level": 2,
+     "id": "lv2_nature_23",
+     "file": "nature_23_lv2.json.gz",
+     "regions": 68,
+     "colors": 9
+    },
+    {
+     "level": 3,
+     "id": "lv3_nature_23",
+     "file": "nature_23_lv3.json.gz",
+     "regions": 165,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_nature_23",
+     "file": "nature_23_lv4.json.gz",
+     "regions": 285,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_nature_23",
+     "file": "nature_23_lv5.json.gz",
+     "regions": 539,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "nature_24",
+   "title": "간헐천",
+   "titleEn": "Geyser",
+   "category": "nature",
+   "thumb": "nature_24_thumb.webp",
+   "art": "nature_24_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#A76B3A",
+    "#3D5549"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_nature_24",
+     "file": "nature_24_lv1.json.gz",
+     "regions": 9,
+     "colors": 4
+    },
+    {
+     "level": 2,
+     "id": "lv2_nature_24",
+     "file": "nature_24_lv2.json.gz",
+     "regions": 45,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_nature_24",
+     "file": "nature_24_lv3.json.gz",
+     "regions": 106,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_nature_24",
+     "file": "nature_24_lv4.json.gz",
+     "regions": 233,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_nature_24",
+     "file": "nature_24_lv5.json.gz",
+     "regions": 520,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "nature_25",
+   "title": "소금 사막",
+   "titleEn": "Salt Flat",
+   "category": "nature",
+   "thumb": "nature_25_thumb.webp",
+   "art": "nature_25_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#45ABF3",
+    "#797AA1"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_nature_25",
+     "file": "nature_25_lv1.json.gz",
+     "regions": 12,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_nature_25",
+     "file": "nature_25_lv2.json.gz",
+     "regions": 44,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_nature_25",
+     "file": "nature_25_lv3.json.gz",
+     "regions": 104,
+     "colors": 18
+    },
+    {
+     "level": 4,
+     "id": "lv4_nature_25",
+     "file": "nature_25_lv4.json.gz",
+     "regions": 260,
+     "colors": 28
+    },
+    {
+     "level": 5,
+     "id": "lv5_nature_25",
+     "file": "nature_25_lv5.json.gz",
+     "regions": 650,
+     "colors": 44
+    }
+   ]
+  },
+  {
+   "id": "nature_26",
+   "title": "포도밭 언덕",
+   "titleEn": "Vineyard Hills",
+   "category": "nature",
+   "thumb": "nature_26_thumb.webp",
+   "art": "nature_26_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#5E723A",
+    "#C2B056"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_nature_26",
+     "file": "nature_26_lv1.json.gz",
+     "regions": 12,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_nature_26",
+     "file": "nature_26_lv2.json.gz",
+     "regions": 51,
+     "colors": 9
+    },
+    {
+     "level": 3,
+     "id": "lv3_nature_26",
+     "file": "nature_26_lv3.json.gz",
+     "regions": 166,
+     "colors": 18
+    },
+    {
+     "level": 4,
+     "id": "lv4_nature_26",
+     "file": "nature_26_lv4.json.gz",
+     "regions": 370,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_nature_26",
+     "file": "nature_26_lv5.json.gz",
+     "regions": 656,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "nature_27",
+   "title": "사과 과수원",
+   "titleEn": "Apple Orchard",
+   "category": "nature",
+   "thumb": "nature_27_thumb.webp",
+   "art": "nature_27_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#827926",
+    "#D1A231"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_nature_27",
+     "file": "nature_27_lv1.json.gz",
+     "regions": 19,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_nature_27",
+     "file": "nature_27_lv2.json.gz",
+     "regions": 52,
+     "colors": 9
+    },
+    {
+     "level": 3,
+     "id": "lv3_nature_27",
+     "file": "nature_27_lv3.json.gz",
+     "regions": 94,
+     "colors": 17
+    },
+    {
+     "level": 4,
+     "id": "lv4_nature_27",
+     "file": "nature_27_lv4.json.gz",
+     "regions": 216,
+     "colors": 26
+    },
+    {
+     "level": 5,
+     "id": "lv5_nature_27",
+     "file": "nature_27_lv5.json.gz",
+     "regions": 650,
+     "colors": 39
+    }
+   ]
+  },
+  {
+   "id": "nature_28",
+   "title": "반딧불이 숲",
+   "titleEn": "Firefly Forest",
+   "category": "nature",
+   "thumb": "nature_28_thumb.webp",
+   "art": "nature_28_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#073C4A",
+    "#4A9A7B"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_nature_28",
+     "file": "nature_28_lv1.json.gz",
+     "regions": 15,
+     "colors": 4
+    },
+    {
+     "level": 2,
+     "id": "lv2_nature_28",
+     "file": "nature_28_lv2.json.gz",
+     "regions": 61,
+     "colors": 8
+    },
+    {
+     "level": 3,
+     "id": "lv3_nature_28",
+     "file": "nature_28_lv3.json.gz",
+     "regions": 143,
+     "colors": 17
+    },
+    {
+     "level": 4,
+     "id": "lv4_nature_28",
+     "file": "nature_28_lv4.json.gz",
+     "regions": 258,
+     "colors": 27
+    },
+    {
+     "level": 5,
+     "id": "lv5_nature_28",
+     "file": "nature_28_lv5.json.gz",
+     "regions": 564,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "nature_29",
+   "title": "빙하 동굴",
+   "titleEn": "Ice Cave",
+   "category": "nature",
+   "thumb": "nature_29_thumb.webp",
+   "art": "nature_29_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#3B8CA9",
+    "#E8F8F4"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_nature_29",
+     "file": "nature_29_lv1.json.gz",
+     "regions": 20,
+     "colors": 4
+    },
+    {
+     "level": 2,
+     "id": "lv2_nature_29",
+     "file": "nature_29_lv2.json.gz",
+     "regions": 73,
+     "colors": 7
+    },
+    {
+     "level": 3,
+     "id": "lv3_nature_29",
+     "file": "nature_29_lv3.json.gz",
+     "regions": 162,
+     "colors": 14
+    },
+    {
+     "level": 4,
+     "id": "lv4_nature_29",
+     "file": "nature_29_lv4.json.gz",
+     "regions": 307,
+     "colors": 23
+    },
+    {
+     "level": 5,
+     "id": "lv5_nature_29",
+     "file": "nature_29_lv5.json.gz",
+     "regions": 532,
+     "colors": 35
+    }
+   ]
+  },
+  {
+   "id": "nature_30",
+   "title": "종유석 동굴",
+   "titleEn": "Limestone Cave",
+   "category": "nature",
+   "thumb": "nature_30_thumb.webp",
+   "art": "nature_30_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#907046",
+    "#5A674C"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_nature_30",
+     "file": "nature_30_lv1.json.gz",
+     "regions": 19,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_nature_30",
+     "file": "nature_30_lv2.json.gz",
+     "regions": 70,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_nature_30",
+     "file": "nature_30_lv3.json.gz",
+     "regions": 189,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_nature_30",
+     "file": "nature_30_lv4.json.gz",
+     "regions": 475,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_nature_30",
+     "file": "nature_30_lv5.json.gz",
+     "regions": 741,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "nature_31",
+   "title": "이끼 낀 계곡",
+   "titleEn": "Mossy Stream",
+   "category": "nature",
+   "thumb": "nature_31_thumb.webp",
+   "art": "nature_31_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#65754B",
+    "#3C5638"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_nature_31",
+     "file": "nature_31_lv1.json.gz",
+     "regions": 16,
+     "colors": 3
+    },
+    {
+     "level": 2,
+     "id": "lv2_nature_31",
+     "file": "nature_31_lv2.json.gz",
+     "regions": 70,
+     "colors": 8
+    },
+    {
+     "level": 3,
+     "id": "lv3_nature_31",
+     "file": "nature_31_lv3.json.gz",
+     "regions": 187,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_nature_31",
+     "file": "nature_31_lv4.json.gz",
+     "regions": 400,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_nature_31",
+     "file": "nature_31_lv5.json.gz",
+     "regions": 742,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "nature_32",
+   "title": "갈대밭 왜가리",
+   "titleEn": "Reeds and Herons",
+   "category": "nature",
+   "thumb": "nature_32_thumb.webp",
+   "art": "nature_32_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#BE874D",
+    "#C0D0DB"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_nature_32",
+     "file": "nature_32_lv1.json.gz",
+     "regions": 14,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_nature_32",
+     "file": "nature_32_lv2.json.gz",
+     "regions": 62,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_nature_32",
+     "file": "nature_32_lv3.json.gz",
+     "regions": 162,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_nature_32",
+     "file": "nature_32_lv4.json.gz",
+     "regions": 305,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_nature_32",
+     "file": "nature_32_lv5.json.gz",
+     "regions": 656,
+     "colors": 50
+    }
+   ]
+  },
+  {
    "id": "sea_02",
    "title": "열대 해변",
    "titleEn": "Tropical Beach",
@@ -1174,6 +1810,430 @@
      "file": "sea_08_lv5.json.gz",
      "regions": 650,
      "colors": 24
+    }
+   ]
+  },
+  {
+   "id": "sea_21",
+   "title": "바위 위 바다사자",
+   "titleEn": "Sea Lions",
+   "category": "sea",
+   "thumb": "sea_21_thumb.webp",
+   "art": "sea_21_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#384761",
+    "#6F5047"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_sea_21",
+     "file": "sea_21_lv1.json.gz",
+     "regions": 20,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_sea_21",
+     "file": "sea_21_lv2.json.gz",
+     "regions": 68,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_sea_21",
+     "file": "sea_21_lv3.json.gz",
+     "regions": 186,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_sea_21",
+     "file": "sea_21_lv4.json.gz",
+     "regions": 354,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_sea_21",
+     "file": "sea_21_lv5.json.gz",
+     "regions": 549,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "sea_22",
+   "title": "문어",
+   "titleEn": "Octopus",
+   "category": "sea",
+   "thumb": "sea_22_thumb.webp",
+   "art": "sea_22_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#2C727B",
+    "#B69259"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_sea_22",
+     "file": "sea_22_lv1.json.gz",
+     "regions": 21,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_sea_22",
+     "file": "sea_22_lv2.json.gz",
+     "regions": 72,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_sea_22",
+     "file": "sea_22_lv3.json.gz",
+     "regions": 192,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_sea_22",
+     "file": "sea_22_lv4.json.gz",
+     "regions": 356,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_sea_22",
+     "file": "sea_22_lv5.json.gz",
+     "regions": 565,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "sea_23",
+   "title": "해마 정원",
+   "titleEn": "Seahorses",
+   "category": "sea",
+   "thumb": "sea_23_thumb.webp",
+   "art": "sea_23_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#0F90A1",
+    "#E78560"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_sea_23",
+     "file": "sea_23_lv1.json.gz",
+     "regions": 10,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_sea_23",
+     "file": "sea_23_lv2.json.gz",
+     "regions": 34,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_sea_23",
+     "file": "sea_23_lv3.json.gz",
+     "regions": 122,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_sea_23",
+     "file": "sea_23_lv4.json.gz",
+     "regions": 247,
+     "colors": 25
+    },
+    {
+     "level": 5,
+     "id": "lv5_sea_23",
+     "file": "sea_23_lv5.json.gz",
+     "regions": 516,
+     "colors": 48
+    }
+   ]
+  },
+  {
+   "id": "sea_24",
+   "title": "쥐가오리",
+   "titleEn": "Manta Ray",
+   "category": "sea",
+   "thumb": "sea_24_thumb.webp",
+   "art": "sea_24_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#29BCE6",
+    "#50577B"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_sea_24",
+     "file": "sea_24_lv1.json.gz",
+     "regions": 22,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_sea_24",
+     "file": "sea_24_lv2.json.gz",
+     "regions": 53,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_sea_24",
+     "file": "sea_24_lv3.json.gz",
+     "regions": 145,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_sea_24",
+     "file": "sea_24_lv4.json.gz",
+     "regions": 270,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_sea_24",
+     "file": "sea_24_lv5.json.gz",
+     "regions": 650,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "sea_25",
+   "title": "말미잘과 흰동가리",
+   "titleEn": "Clownfish",
+   "category": "sea",
+   "thumb": "sea_25_thumb.webp",
+   "art": "sea_25_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#D57B76",
+    "#8D386D"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_sea_25",
+     "file": "sea_25_lv1.json.gz",
+     "regions": 22,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_sea_25",
+     "file": "sea_25_lv2.json.gz",
+     "regions": 56,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_sea_25",
+     "file": "sea_25_lv3.json.gz",
+     "regions": 194,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_sea_25",
+     "file": "sea_25_lv4.json.gz",
+     "regions": 312,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_sea_25",
+     "file": "sea_25_lv5.json.gz",
+     "regions": 564,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "sea_26",
+   "title": "범고래",
+   "titleEn": "Orcas",
+   "category": "sea",
+   "thumb": "sea_26_thumb.webp",
+   "art": "sea_26_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#206991",
+    "#26425A"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_sea_26",
+     "file": "sea_26_lv1.json.gz",
+     "regions": 14,
+     "colors": 4
+    },
+    {
+     "level": 2,
+     "id": "lv2_sea_26",
+     "file": "sea_26_lv2.json.gz",
+     "regions": 44,
+     "colors": 9
+    },
+    {
+     "level": 3,
+     "id": "lv3_sea_26",
+     "file": "sea_26_lv3.json.gz",
+     "regions": 99,
+     "colors": 14
+    },
+    {
+     "level": 4,
+     "id": "lv4_sea_26",
+     "file": "sea_26_lv4.json.gz",
+     "regions": 260,
+     "colors": 24
+    },
+    {
+     "level": 5,
+     "id": "lv5_sea_26",
+     "file": "sea_26_lv5.json.gz",
+     "regions": 650,
+     "colors": 34
+    }
+   ]
+  },
+  {
+   "id": "sea_27",
+   "title": "쏠배감펭",
+   "titleEn": "Lionfish",
+   "category": "sea",
+   "thumb": "sea_27_thumb.webp",
+   "art": "sea_27_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#44D7D6",
+    "#C2876E"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_sea_27",
+     "file": "sea_27_lv1.json.gz",
+     "regions": 20,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_sea_27",
+     "file": "sea_27_lv2.json.gz",
+     "regions": 38,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_sea_27",
+     "file": "sea_27_lv3.json.gz",
+     "regions": 116,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_sea_27",
+     "file": "sea_27_lv4.json.gz",
+     "regions": 268,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_sea_27",
+     "file": "sea_27_lv5.json.gz",
+     "regions": 608,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "sea_28",
+   "title": "다시마 숲",
+   "titleEn": "Kelp Forest",
+   "category": "sea",
+   "thumb": "sea_28_thumb.webp",
+   "art": "sea_28_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#ABB034",
+    "#32DCD1"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_sea_28",
+     "file": "sea_28_lv1.json.gz",
+     "regions": 14,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_sea_28",
+     "file": "sea_28_lv2.json.gz",
+     "regions": 61,
+     "colors": 10
+    },
+    {
+     "level": 3,
+     "id": "lv3_sea_28",
+     "file": "sea_28_lv3.json.gz",
+     "regions": 131,
+     "colors": 18
+    },
+    {
+     "level": 4,
+     "id": "lv4_sea_28",
+     "file": "sea_28_lv4.json.gz",
+     "regions": 260,
+     "colors": 28
+    },
+    {
+     "level": 5,
+     "id": "lv5_sea_28",
+     "file": "sea_28_lv5.json.gz",
+     "regions": 650,
+     "colors": 50
     }
    ]
   },
@@ -1655,6 +2715,2073 @@
    ]
   },
   {
+   "id": "city_21",
+   "title": "저녁 회전목마",
+   "titleEn": "Carousel at Dusk",
+   "category": "city",
+   "thumb": "city_21_thumb.webp",
+   "art": "city_21_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#293863",
+    "#A0684E"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_city_21",
+     "file": "city_21_lv1.json.gz",
+     "regions": 11,
+     "colors": 4
+    },
+    {
+     "level": 2,
+     "id": "lv2_city_21",
+     "file": "city_21_lv2.json.gz",
+     "regions": 61,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_city_21",
+     "file": "city_21_lv3.json.gz",
+     "regions": 168,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_city_21",
+     "file": "city_21_lv4.json.gz",
+     "regions": 303,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_city_21",
+     "file": "city_21_lv5.json.gz",
+     "regions": 719,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "city_22",
+   "title": "풍차 마을",
+   "titleEn": "Windmill Village",
+   "category": "city",
+   "thumb": "city_22_thumb.webp",
+   "art": "city_22_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#64B0DB",
+    "#4E623F"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_city_22",
+     "file": "city_22_lv1.json.gz",
+     "regions": 24,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_city_22",
+     "file": "city_22_lv2.json.gz",
+     "regions": 46,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_city_22",
+     "file": "city_22_lv3.json.gz",
+     "regions": 89,
+     "colors": 16
+    },
+    {
+     "level": 4,
+     "id": "lv4_city_22",
+     "file": "city_22_lv4.json.gz",
+     "regions": 260,
+     "colors": 28
+    },
+    {
+     "level": 5,
+     "id": "lv5_city_22",
+     "file": "city_22_lv5.json.gz",
+     "regions": 650,
+     "colors": 48
+    }
+   ]
+  },
+  {
+   "id": "city_23",
+   "title": "종이우산 가게",
+   "titleEn": "Paper Umbrella Shop",
+   "category": "city",
+   "thumb": "city_23_thumb.webp",
+   "art": "city_23_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#9E6E50",
+    "#5D696D"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_city_23",
+     "file": "city_23_lv1.json.gz",
+     "regions": 21,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_city_23",
+     "file": "city_23_lv2.json.gz",
+     "regions": 72,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_city_23",
+     "file": "city_23_lv3.json.gz",
+     "regions": 186,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_city_23",
+     "file": "city_23_lv4.json.gz",
+     "regions": 397,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_city_23",
+     "file": "city_23_lv5.json.gz",
+     "regions": 806,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "city_24",
+   "title": "시골 빨간 우체통",
+   "titleEn": "Red Postbox",
+   "category": "city",
+   "thumb": "city_24_thumb.webp",
+   "art": "city_24_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#41562C",
+    "#B6A481"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_city_24",
+     "file": "city_24_lv1.json.gz",
+     "regions": 15,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_city_24",
+     "file": "city_24_lv2.json.gz",
+     "regions": 46,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_city_24",
+     "file": "city_24_lv3.json.gz",
+     "regions": 165,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_city_24",
+     "file": "city_24_lv4.json.gz",
+     "regions": 346,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_city_24",
+     "file": "city_24_lv5.json.gz",
+     "regions": 825,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "city_25",
+   "title": "동네 소방서",
+   "titleEn": "Fire Station",
+   "category": "city",
+   "thumb": "city_25_thumb.webp",
+   "art": "city_25_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#B2573E",
+    "#65C0EC"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_city_25",
+     "file": "city_25_lv1.json.gz",
+     "regions": 16,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_city_25",
+     "file": "city_25_lv2.json.gz",
+     "regions": 50,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_city_25",
+     "file": "city_25_lv3.json.gz",
+     "regions": 122,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_city_25",
+     "file": "city_25_lv4.json.gz",
+     "regions": 305,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_city_25",
+     "file": "city_25_lv5.json.gz",
+     "regions": 786,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "city_26",
+   "title": "장난감 가게 진열창",
+   "titleEn": "Toy Shop Window",
+   "category": "city",
+   "thumb": "city_26_thumb.webp",
+   "art": "city_26_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#E5A957",
+    "#89AAAE"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_city_26",
+     "file": "city_26_lv1.json.gz",
+     "regions": 16,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_city_26",
+     "file": "city_26_lv2.json.gz",
+     "regions": 53,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_city_26",
+     "file": "city_26_lv3.json.gz",
+     "regions": 145,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_city_26",
+     "file": "city_26_lv4.json.gz",
+     "regions": 222,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_city_26",
+     "file": "city_26_lv5.json.gz",
+     "regions": 650,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "city_27",
+   "title": "푸른 돔 사원",
+   "titleEn": "Blue Domes",
+   "category": "city",
+   "thumb": "city_27_thumb.webp",
+   "art": "city_27_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#3BA4B3",
+    "#AFA88A"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_city_27",
+     "file": "city_27_lv1.json.gz",
+     "regions": 17,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_city_27",
+     "file": "city_27_lv2.json.gz",
+     "regions": 61,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_city_27",
+     "file": "city_27_lv3.json.gz",
+     "regions": 143,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_city_27",
+     "file": "city_27_lv4.json.gz",
+     "regions": 301,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_city_27",
+     "file": "city_27_lv5.json.gz",
+     "regions": 620,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "city_28",
+   "title": "등불 골목",
+   "titleEn": "Lantern Alley",
+   "category": "city",
+   "thumb": "city_28_thumb.webp",
+   "art": "city_28_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#483139",
+    "#794C45"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_city_28",
+     "file": "city_28_lv1.json.gz",
+     "regions": 20,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_city_28",
+     "file": "city_28_lv2.json.gz",
+     "regions": 76,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_city_28",
+     "file": "city_28_lv3.json.gz",
+     "regions": 184,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_city_28",
+     "file": "city_28_lv4.json.gz",
+     "regions": 383,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_city_28",
+     "file": "city_28_lv5.json.gz",
+     "regions": 795,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "city_29",
+   "title": "수상 시장",
+   "titleEn": "Floating Market",
+   "category": "city",
+   "thumb": "city_29_thumb.webp",
+   "art": "city_29_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#734F3B",
+    "#407C6E"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_city_29",
+     "file": "city_29_lv1.json.gz",
+     "regions": 23,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_city_29",
+     "file": "city_29_lv2.json.gz",
+     "regions": 75,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_city_29",
+     "file": "city_29_lv3.json.gz",
+     "regions": 189,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_city_29",
+     "file": "city_29_lv4.json.gz",
+     "regions": 385,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_city_29",
+     "file": "city_29_lv5.json.gz",
+     "regions": 737,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "city_30",
+   "title": "신전 유적",
+   "titleEn": "Temple Ruins",
+   "category": "city",
+   "thumb": "city_30_thumb.webp",
+   "art": "city_30_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#6F5D44",
+    "#7BC1EC"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_city_30",
+     "file": "city_30_lv1.json.gz",
+     "regions": 13,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_city_30",
+     "file": "city_30_lv2.json.gz",
+     "regions": 60,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_city_30",
+     "file": "city_30_lv3.json.gz",
+     "regions": 149,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_city_30",
+     "file": "city_30_lv4.json.gz",
+     "regions": 306,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_city_30",
+     "file": "city_30_lv5.json.gz",
+     "regions": 643,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "city_31",
+   "title": "알프스 마을",
+   "titleEn": "Alpine Village",
+   "category": "city",
+   "thumb": "city_31_thumb.webp",
+   "art": "city_31_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#69B2CB",
+    "#4F9358"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_city_31",
+     "file": "city_31_lv1.json.gz",
+     "regions": 23,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_city_31",
+     "file": "city_31_lv2.json.gz",
+     "regions": 74,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_city_31",
+     "file": "city_31_lv3.json.gz",
+     "regions": 147,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_city_31",
+     "file": "city_31_lv4.json.gz",
+     "regions": 216,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_city_31",
+     "file": "city_31_lv5.json.gz",
+     "regions": 650,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "city_32",
+   "title": "서커스 천막",
+   "titleEn": "Circus Tent",
+   "category": "city",
+   "thumb": "city_32_thumb.webp",
+   "art": "city_32_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#306DA2",
+    "#4C7B66"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_city_32",
+     "file": "city_32_lv1.json.gz",
+     "regions": 20,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_city_32",
+     "file": "city_32_lv2.json.gz",
+     "regions": 44,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_city_32",
+     "file": "city_32_lv3.json.gz",
+     "regions": 87,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_city_32",
+     "file": "city_32_lv4.json.gz",
+     "regions": 260,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_city_32",
+     "file": "city_32_lv5.json.gz",
+     "regions": 650,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "flowers_21",
+   "title": "눈 속의 동백",
+   "titleEn": "Camellia in Snow",
+   "category": "flowers",
+   "thumb": "flowers_21_thumb.webp",
+   "art": "flowers_21_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#D8172C",
+    "#C4DAF7"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_flowers_21",
+     "file": "flowers_21_lv1.json.gz",
+     "regions": 20,
+     "colors": 4
+    },
+    {
+     "level": 2,
+     "id": "lv2_flowers_21",
+     "file": "flowers_21_lv2.json.gz",
+     "regions": 72,
+     "colors": 7
+    },
+    {
+     "level": 3,
+     "id": "lv3_flowers_21",
+     "file": "flowers_21_lv3.json.gz",
+     "regions": 183,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_flowers_21",
+     "file": "flowers_21_lv4.json.gz",
+     "regions": 274,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_flowers_21",
+     "file": "flowers_21_lv5.json.gz",
+     "regions": 650,
+     "colors": 41
+    }
+   ]
+  },
+  {
+   "id": "flowers_22",
+   "title": "코스모스 들판",
+   "titleEn": "Cosmos Field",
+   "category": "flowers",
+   "thumb": "flowers_22_thumb.webp",
+   "art": "flowers_22_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#73B2E2",
+    "#7A7151"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_flowers_22",
+     "file": "flowers_22_lv1.json.gz",
+     "regions": 14,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_flowers_22",
+     "file": "flowers_22_lv2.json.gz",
+     "regions": 49,
+     "colors": 10
+    },
+    {
+     "level": 3,
+     "id": "lv3_flowers_22",
+     "file": "flowers_22_lv3.json.gz",
+     "regions": 107,
+     "colors": 18
+    },
+    {
+     "level": 4,
+     "id": "lv4_flowers_22",
+     "file": "flowers_22_lv4.json.gz",
+     "regions": 249,
+     "colors": 27
+    },
+    {
+     "level": 5,
+     "id": "lv5_flowers_22",
+     "file": "flowers_22_lv5.json.gz",
+     "regions": 596,
+     "colors": 46
+    }
+   ]
+  },
+  {
+   "id": "flowers_23",
+   "title": "호접란",
+   "titleEn": "Moth Orchids",
+   "category": "flowers",
+   "thumb": "flowers_23_thumb.webp",
+   "art": "flowers_23_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#765C4F",
+    "#3E4332"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_flowers_23",
+     "file": "flowers_23_lv1.json.gz",
+     "regions": 11,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_flowers_23",
+     "file": "flowers_23_lv2.json.gz",
+     "regions": 59,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_flowers_23",
+     "file": "flowers_23_lv3.json.gz",
+     "regions": 125,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_flowers_23",
+     "file": "flowers_23_lv4.json.gz",
+     "regions": 242,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_flowers_23",
+     "file": "flowers_23_lv5.json.gz",
+     "regions": 560,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "flowers_24",
+   "title": "민들레 홀씨",
+   "titleEn": "Dandelion Seeds",
+   "category": "flowers",
+   "thumb": "flowers_24_thumb.webp",
+   "art": "flowers_24_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#43C2EB",
+    "#5D933A"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_flowers_24",
+     "file": "flowers_24_lv1.json.gz",
+     "regions": 17,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_flowers_24",
+     "file": "flowers_24_lv2.json.gz",
+     "regions": 44,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_flowers_24",
+     "file": "flowers_24_lv3.json.gz",
+     "regions": 127,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_flowers_24",
+     "file": "flowers_24_lv4.json.gz",
+     "regions": 263,
+     "colors": 28
+    },
+    {
+     "level": 5,
+     "id": "lv5_flowers_24",
+     "file": "flowers_24_lv5.json.gz",
+     "regions": 544,
+     "colors": 45
+    }
+   ]
+  },
+  {
+   "id": "flowers_25",
+   "title": "수국 정원",
+   "titleEn": "Hydrangeas",
+   "category": "flowers",
+   "thumb": "flowers_25_thumb.webp",
+   "art": "flowers_25_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#3C6A3B",
+    "#ABC3C0"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_flowers_25",
+     "file": "flowers_25_lv1.json.gz",
+     "regions": 22,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_flowers_25",
+     "file": "flowers_25_lv2.json.gz",
+     "regions": 66,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_flowers_25",
+     "file": "flowers_25_lv3.json.gz",
+     "regions": 182,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_flowers_25",
+     "file": "flowers_25_lv4.json.gz",
+     "regions": 447,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_flowers_25",
+     "file": "flowers_25_lv5.json.gz",
+     "regions": 1134,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "flowers_26",
+   "title": "양귀비 들판",
+   "titleEn": "Poppy Field",
+   "category": "flowers",
+   "thumb": "flowers_26_thumb.webp",
+   "art": "flowers_26_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#6F9D45",
+    "#ADD0E7"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_flowers_26",
+     "file": "flowers_26_lv1.json.gz",
+     "regions": 10,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_flowers_26",
+     "file": "flowers_26_lv2.json.gz",
+     "regions": 39,
+     "colors": 7
+    },
+    {
+     "level": 3,
+     "id": "lv3_flowers_26",
+     "file": "flowers_26_lv3.json.gz",
+     "regions": 104,
+     "colors": 9
+    },
+    {
+     "level": 4,
+     "id": "lv4_flowers_26",
+     "file": "flowers_26_lv4.json.gz",
+     "regions": 260,
+     "colors": 17
+    },
+    {
+     "level": 5,
+     "id": "lv5_flowers_26",
+     "file": "flowers_26_lv5.json.gz",
+     "regions": 650,
+     "colors": 27
+    }
+   ]
+  },
+  {
+   "id": "flowers_27",
+   "title": "국화 화분",
+   "titleEn": "Chrysanthemums",
+   "category": "flowers",
+   "thumb": "flowers_27_thumb.webp",
+   "art": "flowers_27_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#CB8A47",
+    "#434D2D"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_flowers_27",
+     "file": "flowers_27_lv1.json.gz",
+     "regions": 21,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_flowers_27",
+     "file": "flowers_27_lv2.json.gz",
+     "regions": 74,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_flowers_27",
+     "file": "flowers_27_lv3.json.gz",
+     "regions": 189,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_flowers_27",
+     "file": "flowers_27_lv4.json.gz",
+     "regions": 473,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_flowers_27",
+     "file": "flowers_27_lv5.json.gz",
+     "regions": 1024,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "flowers_28",
+   "title": "극락조화",
+   "titleEn": "Bird of Paradise Flowers",
+   "category": "flowers",
+   "thumb": "flowers_28_thumb.webp",
+   "art": "flowers_28_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#1E4F53",
+    "#9D873F"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_flowers_28",
+     "file": "flowers_28_lv1.json.gz",
+     "regions": 21,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_flowers_28",
+     "file": "flowers_28_lv2.json.gz",
+     "regions": 60,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_flowers_28",
+     "file": "flowers_28_lv3.json.gz",
+     "regions": 101,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_flowers_28",
+     "file": "flowers_28_lv4.json.gz",
+     "regions": 260,
+     "colors": 28
+    },
+    {
+     "level": 5,
+     "id": "lv5_flowers_28",
+     "file": "flowers_28_lv5.json.gz",
+     "regions": 650,
+     "colors": 48
+    }
+   ]
+  },
+  {
+   "id": "flowers_29",
+   "title": "블루벨 숲",
+   "titleEn": "Bluebell Woods",
+   "category": "flowers",
+   "thumb": "flowers_29_thumb.webp",
+   "art": "flowers_29_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#B8DA6D",
+    "#9695BB"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_flowers_29",
+     "file": "flowers_29_lv1.json.gz",
+     "regions": 15,
+     "colors": 3
+    },
+    {
+     "level": 2,
+     "id": "lv2_flowers_29",
+     "file": "flowers_29_lv2.json.gz",
+     "regions": 54,
+     "colors": 9
+    },
+    {
+     "level": 3,
+     "id": "lv3_flowers_29",
+     "file": "flowers_29_lv3.json.gz",
+     "regions": 149,
+     "colors": 14
+    },
+    {
+     "level": 4,
+     "id": "lv4_flowers_29",
+     "file": "flowers_29_lv4.json.gz",
+     "regions": 425,
+     "colors": 27
+    },
+    {
+     "level": 5,
+     "id": "lv5_flowers_29",
+     "file": "flowers_29_lv5.json.gz",
+     "regions": 1278,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "animals_21",
+   "title": "참나무 장수풍뎅이",
+   "titleEn": "Rhinoceros Beetle",
+   "category": "animals",
+   "thumb": "animals_21_thumb.webp",
+   "art": "animals_21_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#755638",
+    "#5B733E"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_21",
+     "file": "animals_21_lv1.json.gz",
+     "regions": 18,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_21",
+     "file": "animals_21_lv2.json.gz",
+     "regions": 69,
+     "colors": 10
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_21",
+     "file": "animals_21_lv3.json.gz",
+     "regions": 186,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_21",
+     "file": "animals_21_lv4.json.gz",
+     "regions": 428,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_21",
+     "file": "animals_21_lv5.json.gz",
+     "regions": 719,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "animals_22",
+   "title": "황제펭귄 가족",
+   "titleEn": "Emperor Penguins",
+   "category": "animals",
+   "thumb": "animals_22_thumb.webp",
+   "art": "animals_22_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#2D3350",
+    "#A4D0DD"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_22",
+     "file": "animals_22_lv1.json.gz",
+     "regions": 18,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_22",
+     "file": "animals_22_lv2.json.gz",
+     "regions": 40,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_22",
+     "file": "animals_22_lv3.json.gz",
+     "regions": 91,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_22",
+     "file": "animals_22_lv4.json.gz",
+     "regions": 260,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_22",
+     "file": "animals_22_lv5.json.gz",
+     "regions": 650,
+     "colors": 40
+    }
+   ]
+  },
+  {
+   "id": "animals_23",
+   "title": "강가의 수달",
+   "titleEn": "River Otters",
+   "category": "animals",
+   "thumb": "animals_23_thumb.webp",
+   "art": "animals_23_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#4A825B",
+    "#6B7044"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_23",
+     "file": "animals_23_lv1.json.gz",
+     "regions": 15,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_23",
+     "file": "animals_23_lv2.json.gz",
+     "regions": 30,
+     "colors": 10
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_23",
+     "file": "animals_23_lv3.json.gz",
+     "regions": 154,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_23",
+     "file": "animals_23_lv4.json.gz",
+     "regions": 271,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_23",
+     "file": "animals_23_lv5.json.gz",
+     "regions": 506,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "animals_24",
+   "title": "산속 알파카",
+   "titleEn": "Mountain Alpacas",
+   "category": "animals",
+   "thumb": "animals_24_thumb.webp",
+   "art": "animals_24_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#64BFE7",
+    "#B8945A"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_24",
+     "file": "animals_24_lv1.json.gz",
+     "regions": 21,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_24",
+     "file": "animals_24_lv2.json.gz",
+     "regions": 72,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_24",
+     "file": "animals_24_lv3.json.gz",
+     "regions": 183,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_24",
+     "file": "animals_24_lv4.json.gz",
+     "regions": 425,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_24",
+     "file": "animals_24_lv5.json.gz",
+     "regions": 703,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "animals_25",
+   "title": "카멜레온",
+   "titleEn": "Chameleon",
+   "category": "animals",
+   "thumb": "animals_25_thumb.webp",
+   "art": "animals_25_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#207D51",
+    "#8C8D3A"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_25",
+     "file": "animals_25_lv1.json.gz",
+     "regions": 15,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_25",
+     "file": "animals_25_lv2.json.gz",
+     "regions": 70,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_25",
+     "file": "animals_25_lv3.json.gz",
+     "regions": 185,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_25",
+     "file": "animals_25_lv4.json.gz",
+     "regions": 324,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_25",
+     "file": "animals_25_lv5.json.gz",
+     "regions": 551,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "animals_26",
+   "title": "얼룩말 무리",
+   "titleEn": "Zebra Herd",
+   "category": "animals",
+   "thumb": "animals_26_thumb.webp",
+   "art": "animals_26_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#E7A041",
+    "#84C8C1"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_26",
+     "file": "animals_26_lv1.json.gz",
+     "regions": 11,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_26",
+     "file": "animals_26_lv2.json.gz",
+     "regions": 39,
+     "colors": 8
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_26",
+     "file": "animals_26_lv3.json.gz",
+     "regions": 104,
+     "colors": 12
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_26",
+     "file": "animals_26_lv4.json.gz",
+     "regions": 260,
+     "colors": 19
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_26",
+     "file": "animals_26_lv5.json.gz",
+     "regions": 650,
+     "colors": 36
+    }
+   ]
+  },
+  {
+   "id": "animals_27",
+   "title": "나무늘보",
+   "titleEn": "Sloth",
+   "category": "animals",
+   "thumb": "animals_27_thumb.webp",
+   "art": "animals_27_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#408057",
+    "#84905F"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_27",
+     "file": "animals_27_lv1.json.gz",
+     "regions": 12,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_27",
+     "file": "animals_27_lv2.json.gz",
+     "regions": 71,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_27",
+     "file": "animals_27_lv3.json.gz",
+     "regions": 181,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_27",
+     "file": "animals_27_lv4.json.gz",
+     "regions": 329,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_27",
+     "file": "animals_27_lv5.json.gz",
+     "regions": 589,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "animals_28",
+   "title": "빨간눈 청개구리",
+   "titleEn": "Red-Eyed Tree Frog",
+   "category": "animals",
+   "thumb": "animals_28_thumb.webp",
+   "art": "animals_28_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#2E7B46",
+    "#115449"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_28",
+     "file": "animals_28_lv1.json.gz",
+     "regions": 22,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_28",
+     "file": "animals_28_lv2.json.gz",
+     "regions": 58,
+     "colors": 10
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_28",
+     "file": "animals_28_lv3.json.gz",
+     "regions": 126,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_28",
+     "file": "animals_28_lv4.json.gz",
+     "regions": 243,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_28",
+     "file": "animals_28_lv5.json.gz",
+     "regions": 650,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "animals_29",
+   "title": "제왕나비 숲",
+   "titleEn": "Monarch Butterflies",
+   "category": "animals",
+   "thumb": "animals_29_thumb.webp",
+   "art": "animals_29_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#113D41",
+    "#4B4236"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_29",
+     "file": "animals_29_lv1.json.gz",
+     "regions": 15,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_29",
+     "file": "animals_29_lv2.json.gz",
+     "regions": 73,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_29",
+     "file": "animals_29_lv3.json.gz",
+     "regions": 179,
+     "colors": 17
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_29",
+     "file": "animals_29_lv4.json.gz",
+     "regions": 449,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_29",
+     "file": "animals_29_lv5.json.gz",
+     "regions": 952,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "animals_30",
+   "title": "농가의 수탉",
+   "titleEn": "Farmyard Rooster",
+   "category": "animals",
+   "thumb": "animals_30_thumb.webp",
+   "art": "animals_30_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#BD5238",
+    "#4A3D42"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_30",
+     "file": "animals_30_lv1.json.gz",
+     "regions": 14,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_30",
+     "file": "animals_30_lv2.json.gz",
+     "regions": 53,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_30",
+     "file": "animals_30_lv3.json.gz",
+     "regions": 127,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_30",
+     "file": "animals_30_lv4.json.gz",
+     "regions": 233,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_30",
+     "file": "animals_30_lv5.json.gz",
+     "regions": 650,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "animals_31",
+   "title": "낙엽 속 고슴도치",
+   "titleEn": "Hedgehog in Leaves",
+   "category": "animals",
+   "thumb": "animals_31_thumb.webp",
+   "art": "animals_31_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#705F2D",
+    "#B23B27"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_31",
+     "file": "animals_31_lv1.json.gz",
+     "regions": 23,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_31",
+     "file": "animals_31_lv2.json.gz",
+     "regions": 78,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_31",
+     "file": "animals_31_lv3.json.gz",
+     "regions": 192,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_31",
+     "file": "animals_31_lv4.json.gz",
+     "regions": 316,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_31",
+     "file": "animals_31_lv5.json.gz",
+     "regions": 650,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "animals_32",
+   "title": "비버의 댐",
+   "titleEn": "Beaver Dam",
+   "category": "animals",
+   "thumb": "animals_32_thumb.webp",
+   "art": "animals_32_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#6F684F",
+    "#96DBF2"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_32",
+     "file": "animals_32_lv1.json.gz",
+     "regions": 20,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_32",
+     "file": "animals_32_lv2.json.gz",
+     "regions": 72,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_32",
+     "file": "animals_32_lv3.json.gz",
+     "regions": 165,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_32",
+     "file": "animals_32_lv4.json.gz",
+     "regions": 456,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_32",
+     "file": "animals_32_lv5.json.gz",
+     "regions": 916,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "animals_33",
+   "title": "유칼립투스 코알라",
+   "titleEn": "Koala",
+   "category": "animals",
+   "thumb": "animals_33_thumb.webp",
+   "art": "animals_33_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#B9DFF2",
+    "#828A7D"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_33",
+     "file": "animals_33_lv1.json.gz",
+     "regions": 22,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_33",
+     "file": "animals_33_lv2.json.gz",
+     "regions": 45,
+     "colors": 5
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_33",
+     "file": "animals_33_lv3.json.gz",
+     "regions": 127,
+     "colors": 13
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_33",
+     "file": "animals_33_lv4.json.gz",
+     "regions": 252,
+     "colors": 22
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_33",
+     "file": "animals_33_lv5.json.gz",
+     "regions": 650,
+     "colors": 35
+    }
+   ]
+  },
+  {
+   "id": "animals_34",
+   "title": "들판의 캥거루",
+   "titleEn": "Kangaroos",
+   "category": "animals",
+   "thumb": "animals_34_thumb.webp",
+   "art": "animals_34_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#CA492B",
+    "#62A4CE"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_34",
+     "file": "animals_34_lv1.json.gz",
+     "regions": 21,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_34",
+     "file": "animals_34_lv2.json.gz",
+     "regions": 68,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_34",
+     "file": "animals_34_lv3.json.gz",
+     "regions": 163,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_34",
+     "file": "animals_34_lv4.json.gz",
+     "regions": 289,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_34",
+     "file": "animals_34_lv5.json.gz",
+     "regions": 650,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "animals_35",
+   "title": "호수의 백조",
+   "titleEn": "Swans on a Lake",
+   "category": "animals",
+   "thumb": "animals_35_thumb.webp",
+   "art": "animals_35_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#7B6E41",
+    "#46675C"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_35",
+     "file": "animals_35_lv1.json.gz",
+     "regions": 15,
+     "colors": 4
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_35",
+     "file": "animals_35_lv2.json.gz",
+     "regions": 42,
+     "colors": 7
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_35",
+     "file": "animals_35_lv3.json.gz",
+     "regions": 105,
+     "colors": 13
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_35",
+     "file": "animals_35_lv4.json.gz",
+     "regions": 249,
+     "colors": 26
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_35",
+     "file": "animals_35_lv5.json.gz",
+     "regions": 595,
+     "colors": 45
+    }
+   ]
+  },
+  {
+   "id": "animals_36",
+   "title": "엄마 오리와 새끼들",
+   "titleEn": "Duck Family",
+   "category": "animals",
+   "thumb": "animals_36_thumb.webp",
+   "art": "animals_36_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#379D94",
+    "#939F5D"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_36",
+     "file": "animals_36_lv1.json.gz",
+     "regions": 16,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_36",
+     "file": "animals_36_lv2.json.gz",
+     "regions": 31,
+     "colors": 10
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_36",
+     "file": "animals_36_lv3.json.gz",
+     "regions": 90,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_36",
+     "file": "animals_36_lv4.json.gz",
+     "regions": 260,
+     "colors": 28
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_36",
+     "file": "animals_36_lv5.json.gz",
+     "regions": 650,
+     "colors": 47
+    }
+   ]
+  },
+  {
+   "id": "animals_37",
+   "title": "큰부리새",
+   "titleEn": "Toucans",
+   "category": "animals",
+   "thumb": "animals_37_thumb.webp",
+   "art": "animals_37_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#298B5D",
+    "#3A5B32"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_37",
+     "file": "animals_37_lv1.json.gz",
+     "regions": 22,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_37",
+     "file": "animals_37_lv2.json.gz",
+     "regions": 73,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_37",
+     "file": "animals_37_lv3.json.gz",
+     "regions": 177,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_37",
+     "file": "animals_37_lv4.json.gz",
+     "regions": 385,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_37",
+     "file": "animals_37_lv5.json.gz",
+     "regions": 752,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "animals_38",
+   "title": "설원의 순록",
+   "titleEn": "Reindeer",
+   "category": "animals",
+   "thumb": "animals_38_thumb.webp",
+   "art": "animals_38_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#F4D5D7",
+    "#D2D5E7"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_animals_38",
+     "file": "animals_38_lv1.json.gz",
+     "regions": 11,
+     "colors": 4
+    },
+    {
+     "level": 2,
+     "id": "lv2_animals_38",
+     "file": "animals_38_lv2.json.gz",
+     "regions": 51,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_animals_38",
+     "file": "animals_38_lv3.json.gz",
+     "regions": 106,
+     "colors": 18
+    },
+    {
+     "level": 4,
+     "id": "lv4_animals_38",
+     "file": "animals_38_lv4.json.gz",
+     "regions": 260,
+     "colors": 26
+    },
+    {
+     "level": 5,
+     "id": "lv5_animals_38",
+     "file": "animals_38_lv5.json.gz",
+     "regions": 650,
+     "colors": 39
+    }
+   ]
+  },
+  {
    "id": "interior_01",
    "title": "비 오는 카페 창가",
    "titleEn": "Rainy Café Window",
@@ -2021,6 +5148,1066 @@
      "id": "lv5_interior_07",
      "file": "interior_07_lv5.json.gz",
      "regions": 761,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "interior_21",
+   "title": "바이올린 공방",
+   "titleEn": "Violin Workshop",
+   "category": "interior",
+   "thumb": "interior_21_thumb.webp",
+   "art": "interior_21_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#803D25",
+    "#93522E"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_interior_21",
+     "file": "interior_21_lv1.json.gz",
+     "regions": 23,
+     "colors": 4
+    },
+    {
+     "level": 2,
+     "id": "lv2_interior_21",
+     "file": "interior_21_lv2.json.gz",
+     "regions": 58,
+     "colors": 9
+    },
+    {
+     "level": 3,
+     "id": "lv3_interior_21",
+     "file": "interior_21_lv3.json.gz",
+     "regions": 173,
+     "colors": 17
+    },
+    {
+     "level": 4,
+     "id": "lv4_interior_21",
+     "file": "interior_21_lv4.json.gz",
+     "regions": 332,
+     "colors": 28
+    },
+    {
+     "level": 5,
+     "id": "lv5_interior_21",
+     "file": "interior_21_lv5.json.gz",
+     "regions": 645,
+     "colors": 48
+    }
+   ]
+  },
+  {
+   "id": "interior_22",
+   "title": "오래된 시계방",
+   "titleEn": "Antique Clock Shop",
+   "category": "interior",
+   "thumb": "interior_22_thumb.webp",
+   "art": "interior_22_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#763728",
+    "#B1B79D"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_interior_22",
+     "file": "interior_22_lv1.json.gz",
+     "regions": 25,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_interior_22",
+     "file": "interior_22_lv2.json.gz",
+     "regions": 75,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_interior_22",
+     "file": "interior_22_lv3.json.gz",
+     "regions": 186,
+     "colors": 18
+    },
+    {
+     "level": 4,
+     "id": "lv4_interior_22",
+     "file": "interior_22_lv4.json.gz",
+     "regions": 349,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_interior_22",
+     "file": "interior_22_lv5.json.gz",
+     "regions": 634,
+     "colors": 48
+    }
+   ]
+  },
+  {
+   "id": "interior_23",
+   "title": "재봉실",
+   "titleEn": "Sewing Room",
+   "category": "interior",
+   "thumb": "interior_23_thumb.webp",
+   "art": "interior_23_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#814134",
+    "#E8D8B2"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_interior_23",
+     "file": "interior_23_lv1.json.gz",
+     "regions": 12,
+     "colors": 4
+    },
+    {
+     "level": 2,
+     "id": "lv2_interior_23",
+     "file": "interior_23_lv2.json.gz",
+     "regions": 68,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_interior_23",
+     "file": "interior_23_lv3.json.gz",
+     "regions": 182,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_interior_23",
+     "file": "interior_23_lv4.json.gz",
+     "regions": 383,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_interior_23",
+     "file": "interior_23_lv5.json.gz",
+     "regions": 781,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "interior_24",
+   "title": "옛날 이발소",
+   "titleEn": "Vintage Barbershop",
+   "category": "interior",
+   "thumb": "interior_24_thumb.webp",
+   "art": "interior_24_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#853930",
+    "#3A4B59"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_interior_24",
+     "file": "interior_24_lv1.json.gz",
+     "regions": 23,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_interior_24",
+     "file": "interior_24_lv2.json.gz",
+     "regions": 67,
+     "colors": 10
+    },
+    {
+     "level": 3,
+     "id": "lv3_interior_24",
+     "file": "interior_24_lv3.json.gz",
+     "regions": 170,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_interior_24",
+     "file": "interior_24_lv4.json.gz",
+     "regions": 295,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_interior_24",
+     "file": "interior_24_lv5.json.gz",
+     "regions": 544,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "interior_25",
+   "title": "빵집 진열대",
+   "titleEn": "Bakery Shelves",
+   "category": "interior",
+   "thumb": "interior_25_thumb.webp",
+   "art": "interior_25_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#D8874C",
+    "#554D50"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_interior_25",
+     "file": "interior_25_lv1.json.gz",
+     "regions": 22,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_interior_25",
+     "file": "interior_25_lv2.json.gz",
+     "regions": 70,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_interior_25",
+     "file": "interior_25_lv3.json.gz",
+     "regions": 179,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_interior_25",
+     "file": "interior_25_lv4.json.gz",
+     "regions": 293,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_interior_25",
+     "file": "interior_25_lv5.json.gz",
+     "regions": 622,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "interior_26",
+   "title": "도자기 공방",
+   "titleEn": "Pottery Studio",
+   "category": "interior",
+   "thumb": "interior_26_thumb.webp",
+   "art": "interior_26_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#A06E4C",
+    "#777B7C"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_interior_26",
+     "file": "interior_26_lv1.json.gz",
+     "regions": 21,
+     "colors": 4
+    },
+    {
+     "level": 2,
+     "id": "lv2_interior_26",
+     "file": "interior_26_lv2.json.gz",
+     "regions": 59,
+     "colors": 10
+    },
+    {
+     "level": 3,
+     "id": "lv3_interior_26",
+     "file": "interior_26_lv3.json.gz",
+     "regions": 147,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_interior_26",
+     "file": "interior_26_lv4.json.gz",
+     "regions": 256,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_interior_26",
+     "file": "interior_26_lv5.json.gz",
+     "regions": 650,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "interior_27",
+   "title": "그랜드 피아노 음악실",
+   "titleEn": "Piano Room",
+   "category": "interior",
+   "thumb": "interior_27_thumb.webp",
+   "art": "interior_27_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#AE6B2E",
+    "#798983"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_interior_27",
+     "file": "interior_27_lv1.json.gz",
+     "regions": 13,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_interior_27",
+     "file": "interior_27_lv2.json.gz",
+     "regions": 48,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_interior_27",
+     "file": "interior_27_lv3.json.gz",
+     "regions": 107,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_interior_27",
+     "file": "interior_27_lv4.json.gz",
+     "regions": 260,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_interior_27",
+     "file": "interior_27_lv5.json.gz",
+     "regions": 650,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "interior_28",
+   "title": "한옥 찻방",
+   "titleEn": "Hanok Tea Room",
+   "category": "interior",
+   "thumb": "interior_28_thumb.webp",
+   "art": "interior_28_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#89431A",
+    "#B26928"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_interior_28",
+     "file": "interior_28_lv1.json.gz",
+     "regions": 17,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_interior_28",
+     "file": "interior_28_lv2.json.gz",
+     "regions": 52,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_interior_28",
+     "file": "interior_28_lv3.json.gz",
+     "regions": 108,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_interior_28",
+     "file": "interior_28_lv4.json.gz",
+     "regions": 204,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_interior_28",
+     "file": "interior_28_lv5.json.gz",
+     "regions": 650,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "interior_29",
+   "title": "수족관 거실",
+   "titleEn": "Aquarium Room",
+   "category": "interior",
+   "thumb": "interior_29_thumb.webp",
+   "art": "interior_29_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#71978C",
+    "#996A5B"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_interior_29",
+     "file": "interior_29_lv1.json.gz",
+     "regions": 15,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_interior_29",
+     "file": "interior_29_lv2.json.gz",
+     "regions": 47,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_interior_29",
+     "file": "interior_29_lv3.json.gz",
+     "regions": 93,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_interior_29",
+     "file": "interior_29_lv4.json.gz",
+     "regions": 260,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_interior_29",
+     "file": "interior_29_lv5.json.gz",
+     "regions": 650,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "interior_30",
+   "title": "우주 테마 아이방",
+   "titleEn": "Space Kids Room",
+   "category": "interior",
+   "thumb": "interior_30_thumb.webp",
+   "art": "interior_30_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#0C3652",
+    "#A4422E"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_interior_30",
+     "file": "interior_30_lv1.json.gz",
+     "regions": 13,
+     "colors": 4
+    },
+    {
+     "level": 2,
+     "id": "lv2_interior_30",
+     "file": "interior_30_lv2.json.gz",
+     "regions": 39,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_interior_30",
+     "file": "interior_30_lv3.json.gz",
+     "regions": 81,
+     "colors": 18
+    },
+    {
+     "level": 4,
+     "id": "lv4_interior_30",
+     "file": "interior_30_lv4.json.gz",
+     "regions": 260,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_interior_30",
+     "file": "interior_30_lv5.json.gz",
+     "regions": 650,
+     "colors": 48
+    }
+   ]
+  },
+  {
+   "id": "food_21",
+   "title": "김밥 한 상",
+   "titleEn": "Gimbap Platter",
+   "category": "food",
+   "thumb": "food_21_thumb.webp",
+   "art": "food_21_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#D79254",
+    "#CE854B"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_food_21",
+     "file": "food_21_lv1.json.gz",
+     "regions": 10,
+     "colors": 3
+    },
+    {
+     "level": 2,
+     "id": "lv2_food_21",
+     "file": "food_21_lv2.json.gz",
+     "regions": 55,
+     "colors": 8
+    },
+    {
+     "level": 3,
+     "id": "lv3_food_21",
+     "file": "food_21_lv3.json.gz",
+     "regions": 102,
+     "colors": 14
+    },
+    {
+     "level": 4,
+     "id": "lv4_food_21",
+     "file": "food_21_lv4.json.gz",
+     "regions": 243,
+     "colors": 23
+    },
+    {
+     "level": 5,
+     "id": "lv5_food_21",
+     "file": "food_21_lv5.json.gz",
+     "regions": 531,
+     "colors": 38
+    }
+   ]
+  },
+  {
+   "id": "food_22",
+   "title": "대나무 찜기 만두",
+   "titleEn": "Steamed Dumplings",
+   "category": "food",
+   "thumb": "food_22_thumb.webp",
+   "art": "food_22_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#C82925",
+    "#E7A159"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_food_22",
+     "file": "food_22_lv1.json.gz",
+     "regions": 19,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_food_22",
+     "file": "food_22_lv2.json.gz",
+     "regions": 72,
+     "colors": 10
+    },
+    {
+     "level": 3,
+     "id": "lv3_food_22",
+     "file": "food_22_lv3.json.gz",
+     "regions": 161,
+     "colors": 17
+    },
+    {
+     "level": 4,
+     "id": "lv4_food_22",
+     "file": "food_22_lv4.json.gz",
+     "regions": 291,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_food_22",
+     "file": "food_22_lv5.json.gz",
+     "regions": 533,
+     "colors": 40
+    }
+   ]
+  },
+  {
+   "id": "food_23",
+   "title": "치즈 보드",
+   "titleEn": "Cheese Board",
+   "category": "food",
+   "thumb": "food_23_thumb.webp",
+   "art": "food_23_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#B26733",
+    "#D08840"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_food_23",
+     "file": "food_23_lv1.json.gz",
+     "regions": 16,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_food_23",
+     "file": "food_23_lv2.json.gz",
+     "regions": 45,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_food_23",
+     "file": "food_23_lv3.json.gz",
+     "regions": 170,
+     "colors": 18
+    },
+    {
+     "level": 4,
+     "id": "lv4_food_23",
+     "file": "food_23_lv4.json.gz",
+     "regions": 333,
+     "colors": 28
+    },
+    {
+     "level": 5,
+     "id": "lv5_food_23",
+     "file": "food_23_lv5.json.gz",
+     "regions": 651,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "food_24",
+   "title": "초콜릿 상자",
+   "titleEn": "Chocolate Box",
+   "category": "food",
+   "thumb": "food_24_thumb.webp",
+   "art": "food_24_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#99553D",
+    "#290B17"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_food_24",
+     "file": "food_24_lv1.json.gz",
+     "regions": 18,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_food_24",
+     "file": "food_24_lv2.json.gz",
+     "regions": 46,
+     "colors": 6
+    },
+    {
+     "level": 3,
+     "id": "lv3_food_24",
+     "file": "food_24_lv3.json.gz",
+     "regions": 138,
+     "colors": 14
+    },
+    {
+     "level": 4,
+     "id": "lv4_food_24",
+     "file": "food_24_lv4.json.gz",
+     "regions": 262,
+     "colors": 26
+    },
+    {
+     "level": 5,
+     "id": "lv5_food_24",
+     "file": "food_24_lv5.json.gz",
+     "regions": 611,
+     "colors": 39
+    }
+   ]
+  },
+  {
+   "id": "food_25",
+   "title": "과자 집",
+   "titleEn": "Gingerbread House",
+   "category": "food",
+   "thumb": "food_25_thumb.webp",
+   "art": "food_25_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#1F406F",
+    "#9E7C66"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_food_25",
+     "file": "food_25_lv1.json.gz",
+     "regions": 12,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_food_25",
+     "file": "food_25_lv2.json.gz",
+     "regions": 43,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_food_25",
+     "file": "food_25_lv3.json.gz",
+     "regions": 103,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_food_25",
+     "file": "food_25_lv4.json.gz",
+     "regions": 206,
+     "colors": 24
+    },
+    {
+     "level": 5,
+     "id": "lv5_food_25",
+     "file": "food_25_lv5.json.gz",
+     "regions": 546,
+     "colors": 45
+    }
+   ]
+  },
+  {
+   "id": "food_26",
+   "title": "비빔밥",
+   "titleEn": "Bibimbap",
+   "category": "food",
+   "thumb": "food_26_thumb.webp",
+   "art": "food_26_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#B6682B",
+    "#34432F"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_food_26",
+     "file": "food_26_lv1.json.gz",
+     "regions": 18,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_food_26",
+     "file": "food_26_lv2.json.gz",
+     "regions": 31,
+     "colors": 10
+    },
+    {
+     "level": 3,
+     "id": "lv3_food_26",
+     "file": "food_26_lv3.json.gz",
+     "regions": 104,
+     "colors": 18
+    },
+    {
+     "level": 4,
+     "id": "lv4_food_26",
+     "file": "food_26_lv4.json.gz",
+     "regions": 260,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_food_26",
+     "file": "food_26_lv5.json.gz",
+     "regions": 650,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "food_27",
+   "title": "수박 화채",
+   "titleEn": "Watermelon Punch",
+   "category": "food",
+   "thumb": "food_27_thumb.webp",
+   "art": "food_27_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#5E904A",
+    "#C23845"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_food_27",
+     "file": "food_27_lv1.json.gz",
+     "regions": 25,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_food_27",
+     "file": "food_27_lv2.json.gz",
+     "regions": 71,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_food_27",
+     "file": "food_27_lv3.json.gz",
+     "regions": 157,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_food_27",
+     "file": "food_27_lv4.json.gz",
+     "regions": 309,
+     "colors": 28
+    },
+    {
+     "level": 5,
+     "id": "lv5_food_27",
+     "file": "food_27_lv5.json.gz",
+     "regions": 583,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "food_28",
+   "title": "훠궈 냄비",
+   "titleEn": "Hot Pot",
+   "category": "food",
+   "thumb": "food_28_thumb.webp",
+   "art": "food_28_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#8B2C1C",
+    "#254644"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_food_28",
+     "file": "food_28_lv1.json.gz",
+     "regions": 21,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_food_28",
+     "file": "food_28_lv2.json.gz",
+     "regions": 64,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_food_28",
+     "file": "food_28_lv3.json.gz",
+     "regions": 138,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_food_28",
+     "file": "food_28_lv4.json.gz",
+     "regions": 316,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_food_28",
+     "file": "food_28_lv5.json.gz",
+     "regions": 661,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "food_29",
+   "title": "파에야",
+   "titleEn": "Paella",
+   "category": "food",
+   "thumb": "food_29_thumb.webp",
+   "art": "food_29_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#E6943E",
+    "#4C2E2E"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_food_29",
+     "file": "food_29_lv1.json.gz",
+     "regions": 21,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_food_29",
+     "file": "food_29_lv2.json.gz",
+     "regions": 47,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_food_29",
+     "file": "food_29_lv3.json.gz",
+     "regions": 127,
+     "colors": 18
+    },
+    {
+     "level": 4,
+     "id": "lv4_food_29",
+     "file": "food_29_lv4.json.gz",
+     "regions": 260,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_food_29",
+     "file": "food_29_lv5.json.gz",
+     "regions": 545,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "food_30",
+   "title": "꼬치구이",
+   "titleEn": "Grilled Skewers",
+   "category": "food",
+   "thumb": "food_30_thumb.webp",
+   "art": "food_30_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#993D28",
+    "#708C89"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_food_30",
+     "file": "food_30_lv1.json.gz",
+     "regions": 24,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_food_30",
+     "file": "food_30_lv2.json.gz",
+     "regions": 66,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_food_30",
+     "file": "food_30_lv3.json.gz",
+     "regions": 191,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_food_30",
+     "file": "food_30_lv4.json.gz",
+     "regions": 399,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_food_30",
+     "file": "food_30_lv5.json.gz",
+     "regions": 664,
      "colors": 50
     }
    ]
@@ -2450,6 +6637,271 @@
    ]
   },
   {
+   "id": "seasons_21",
+   "title": "연등 축제",
+   "titleEn": "Lantern Festival",
+   "category": "seasons",
+   "thumb": "seasons_21_thumb.webp",
+   "art": "seasons_21_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#D4A66B",
+    "#43383D"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_seasons_21",
+     "file": "seasons_21_lv1.json.gz",
+     "regions": 18,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_seasons_21",
+     "file": "seasons_21_lv2.json.gz",
+     "regions": 66,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_seasons_21",
+     "file": "seasons_21_lv3.json.gz",
+     "regions": 170,
+     "colors": 18
+    },
+    {
+     "level": 4,
+     "id": "lv4_seasons_21",
+     "file": "seasons_21_lv4.json.gz",
+     "regions": 451,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_seasons_21",
+     "file": "seasons_21_lv5.json.gz",
+     "regions": 1324,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "seasons_22",
+   "title": "크리스마스 마켓",
+   "titleEn": "Christmas Market",
+   "category": "seasons",
+   "thumb": "seasons_22_thumb.webp",
+   "art": "seasons_22_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#C8DBE7",
+    "#A07861"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_seasons_22",
+     "file": "seasons_22_lv1.json.gz",
+     "regions": 22,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_seasons_22",
+     "file": "seasons_22_lv2.json.gz",
+     "regions": 74,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_seasons_22",
+     "file": "seasons_22_lv3.json.gz",
+     "regions": 179,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_seasons_22",
+     "file": "seasons_22_lv4.json.gz",
+     "regions": 410,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_seasons_22",
+     "file": "seasons_22_lv5.json.gz",
+     "regions": 796,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "seasons_23",
+   "title": "겨울 스케이트장",
+   "titleEn": "Ice Rink",
+   "category": "seasons",
+   "thumb": "seasons_23_thumb.webp",
+   "art": "seasons_23_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#3178B4",
+    "#815C5F"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_seasons_23",
+     "file": "seasons_23_lv1.json.gz",
+     "regions": 14,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_seasons_23",
+     "file": "seasons_23_lv2.json.gz",
+     "regions": 41,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_seasons_23",
+     "file": "seasons_23_lv3.json.gz",
+     "regions": 81,
+     "colors": 18
+    },
+    {
+     "level": 4,
+     "id": "lv4_seasons_23",
+     "file": "seasons_23_lv4.json.gz",
+     "regions": 260,
+     "colors": 28
+    },
+    {
+     "level": 5,
+     "id": "lv5_seasons_23",
+     "file": "seasons_23_lv5.json.gz",
+     "regions": 650,
+     "colors": 48
+    }
+   ]
+  },
+  {
+   "id": "seasons_24",
+   "title": "새해 해돋이",
+   "titleEn": "New Year Sunrise",
+   "category": "seasons",
+   "thumb": "seasons_24_thumb.webp",
+   "art": "seasons_24_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#D13B41",
+    "#283943"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_seasons_24",
+     "file": "seasons_24_lv1.json.gz",
+     "regions": 16,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_seasons_24",
+     "file": "seasons_24_lv2.json.gz",
+     "regions": 38,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_seasons_24",
+     "file": "seasons_24_lv3.json.gz",
+     "regions": 104,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_seasons_24",
+     "file": "seasons_24_lv4.json.gz",
+     "regions": 260,
+     "colors": 26
+    },
+    {
+     "level": 5,
+     "id": "lv5_seasons_24",
+     "file": "seasons_24_lv5.json.gz",
+     "regions": 650,
+     "colors": 43
+    }
+   ]
+  },
+  {
+   "id": "seasons_25",
+   "title": "부활절 달걀",
+   "titleEn": "Easter Eggs",
+   "category": "seasons",
+   "thumb": "seasons_25_thumb.webp",
+   "art": "seasons_25_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#6EA154",
+    "#CEA768"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_seasons_25",
+     "file": "seasons_25_lv1.json.gz",
+     "regions": 16,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_seasons_25",
+     "file": "seasons_25_lv2.json.gz",
+     "regions": 59,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_seasons_25",
+     "file": "seasons_25_lv3.json.gz",
+     "regions": 150,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_seasons_25",
+     "file": "seasons_25_lv4.json.gz",
+     "regions": 300,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_seasons_25",
+     "file": "seasons_25_lv5.json.gz",
+     "regions": 781,
+     "colors": 50
+    }
+   ]
+  },
+  {
    "id": "travel_01",
    "title": "증기기관차",
    "titleEn": "Steam Train",
@@ -2710,6 +7162,854 @@
      "id": "lv5_travel_05",
      "file": "travel_05_lv5.json.gz",
      "regions": 666,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "travel_21",
+   "title": "노란 잠수함",
+   "titleEn": "Yellow Submarine",
+   "category": "travel",
+   "thumb": "travel_21_thumb.webp",
+   "art": "travel_21_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#096B86",
+    "#AFB567"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_travel_21",
+     "file": "travel_21_lv1.json.gz",
+     "regions": 11,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_travel_21",
+     "file": "travel_21_lv2.json.gz",
+     "regions": 44,
+     "colors": 10
+    },
+    {
+     "level": 3,
+     "id": "lv3_travel_21",
+     "file": "travel_21_lv3.json.gz",
+     "regions": 131,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_travel_21",
+     "file": "travel_21_lv4.json.gz",
+     "regions": 261,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_travel_21",
+     "file": "travel_21_lv5.json.gz",
+     "regions": 507,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "travel_22",
+   "title": "강 위의 증기선",
+   "titleEn": "Paddle Steamer",
+   "category": "travel",
+   "thumb": "travel_22_thumb.webp",
+   "art": "travel_22_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#336C79",
+    "#E0EEE3"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_travel_22",
+     "file": "travel_22_lv1.json.gz",
+     "regions": 13,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_travel_22",
+     "file": "travel_22_lv2.json.gz",
+     "regions": 68,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_travel_22",
+     "file": "travel_22_lv3.json.gz",
+     "regions": 130,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_travel_22",
+     "file": "travel_22_lv4.json.gz",
+     "regions": 226,
+     "colors": 26
+    },
+    {
+     "level": 5,
+     "id": "lv5_travel_22",
+     "file": "travel_22_lv5.json.gz",
+     "regions": 650,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "travel_23",
+   "title": "로켓 발사",
+   "titleEn": "Rocket Launch",
+   "category": "travel",
+   "thumb": "travel_23_thumb.webp",
+   "art": "travel_23_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#092547",
+    "#EDB891"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_travel_23",
+     "file": "travel_23_lv1.json.gz",
+     "regions": 18,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_travel_23",
+     "file": "travel_23_lv2.json.gz",
+     "regions": 42,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_travel_23",
+     "file": "travel_23_lv3.json.gz",
+     "regions": 91,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_travel_23",
+     "file": "travel_23_lv4.json.gz",
+     "regions": 260,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_travel_23",
+     "file": "travel_23_lv5.json.gz",
+     "regions": 650,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "travel_24",
+   "title": "밀밭의 트랙터",
+   "titleEn": "Tractor in Wheat",
+   "category": "travel",
+   "thumb": "travel_24_thumb.webp",
+   "art": "travel_24_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#F3C34C",
+    "#85D3EE"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_travel_24",
+     "file": "travel_24_lv1.json.gz",
+     "regions": 9,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_travel_24",
+     "file": "travel_24_lv2.json.gz",
+     "regions": 35,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_travel_24",
+     "file": "travel_24_lv3.json.gz",
+     "regions": 121,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_travel_24",
+     "file": "travel_24_lv4.json.gz",
+     "regions": 274,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_travel_24",
+     "file": "travel_24_lv5.json.gz",
+     "regions": 517,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "travel_25",
+   "title": "산 위의 케이블카",
+   "titleEn": "Cable Car",
+   "category": "travel",
+   "thumb": "travel_25_thumb.webp",
+   "art": "travel_25_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#196D5F",
+    "#513E3D"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_travel_25",
+     "file": "travel_25_lv1.json.gz",
+     "regions": 18,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_travel_25",
+     "file": "travel_25_lv2.json.gz",
+     "regions": 57,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_travel_25",
+     "file": "travel_25_lv3.json.gz",
+     "regions": 128,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_travel_25",
+     "file": "travel_25_lv4.json.gz",
+     "regions": 226,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_travel_25",
+     "file": "travel_25_lv5.json.gz",
+     "regions": 650,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "travel_26",
+   "title": "호숫가 캠핑카",
+   "titleEn": "Camper Van",
+   "category": "travel",
+   "thumb": "travel_26_thumb.webp",
+   "art": "travel_26_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#C78199",
+    "#9B6357"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_travel_26",
+     "file": "travel_26_lv1.json.gz",
+     "regions": 23,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_travel_26",
+     "file": "travel_26_lv2.json.gz",
+     "regions": 62,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_travel_26",
+     "file": "travel_26_lv3.json.gz",
+     "regions": 120,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_travel_26",
+     "file": "travel_26_lv4.json.gz",
+     "regions": 260,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_travel_26",
+     "file": "travel_26_lv5.json.gz",
+     "regions": 650,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "travel_27",
+   "title": "요트 정박지",
+   "titleEn": "Marina",
+   "category": "travel",
+   "thumb": "travel_27_thumb.webp",
+   "art": "travel_27_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#69C6F4",
+    "#B87951"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_travel_27",
+     "file": "travel_27_lv1.json.gz",
+     "regions": 9,
+     "colors": 4
+    },
+    {
+     "level": 2,
+     "id": "lv2_travel_27",
+     "file": "travel_27_lv2.json.gz",
+     "regions": 58,
+     "colors": 9
+    },
+    {
+     "level": 3,
+     "id": "lv3_travel_27",
+     "file": "travel_27_lv3.json.gz",
+     "regions": 130,
+     "colors": 18
+    },
+    {
+     "level": 4,
+     "id": "lv4_travel_27",
+     "file": "travel_27_lv4.json.gz",
+     "regions": 274,
+     "colors": 28
+    },
+    {
+     "level": 5,
+     "id": "lv5_travel_27",
+     "file": "travel_27_lv5.json.gz",
+     "regions": 655,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "travel_28",
+   "title": "개썰매",
+   "titleEn": "Dog Sled",
+   "category": "travel",
+   "thumb": "travel_28_thumb.webp",
+   "art": "travel_28_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#77ADE9",
+    "#E5ACD7"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_travel_28",
+     "file": "travel_28_lv1.json.gz",
+     "regions": 12,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_travel_28",
+     "file": "travel_28_lv2.json.gz",
+     "regions": 40,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_travel_28",
+     "file": "travel_28_lv3.json.gz",
+     "regions": 104,
+     "colors": 17
+    },
+    {
+     "level": 4,
+     "id": "lv4_travel_28",
+     "file": "travel_28_lv4.json.gz",
+     "regions": 260,
+     "colors": 28
+    },
+    {
+     "level": 5,
+     "id": "lv5_travel_28",
+     "file": "travel_28_lv5.json.gz",
+     "regions": 650,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "fantasy_21",
+   "title": "산꼭대기 천문대",
+   "titleEn": "Mountaintop Observatory",
+   "category": "fantasy",
+   "thumb": "fantasy_21_thumb.webp",
+   "art": "fantasy_21_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#044C8F",
+    "#795552"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_fantasy_21",
+     "file": "fantasy_21_lv1.json.gz",
+     "regions": 10,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_fantasy_21",
+     "file": "fantasy_21_lv2.json.gz",
+     "regions": 31,
+     "colors": 11
+    },
+    {
+     "level": 3,
+     "id": "lv3_fantasy_21",
+     "file": "fantasy_21_lv3.json.gz",
+     "regions": 85,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_fantasy_21",
+     "file": "fantasy_21_lv4.json.gz",
+     "regions": 260,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_fantasy_21",
+     "file": "fantasy_21_lv5.json.gz",
+     "regions": 650,
+     "colors": 43
+    }
+   ]
+  },
+  {
+   "id": "fantasy_22",
+   "title": "정원사 로봇",
+   "titleEn": "Gardener Robot",
+   "category": "fantasy",
+   "thumb": "fantasy_22_thumb.webp",
+   "art": "fantasy_22_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#A17B3B",
+    "#2D4733"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_fantasy_22",
+     "file": "fantasy_22_lv1.json.gz",
+     "regions": 19,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_fantasy_22",
+     "file": "fantasy_22_lv2.json.gz",
+     "regions": 65,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_fantasy_22",
+     "file": "fantasy_22_lv3.json.gz",
+     "regions": 186,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_fantasy_22",
+     "file": "fantasy_22_lv4.json.gz",
+     "regions": 462,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_fantasy_22",
+     "file": "fantasy_22_lv5.json.gz",
+     "regions": 928,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "fantasy_23",
+   "title": "증기 비행선",
+   "titleEn": "Steampunk Airship",
+   "category": "fantasy",
+   "thumb": "fantasy_23_thumb.webp",
+   "art": "fantasy_23_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#EE9476",
+    "#9FB8C0"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_fantasy_23",
+     "file": "fantasy_23_lv1.json.gz",
+     "regions": 12,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_fantasy_23",
+     "file": "fantasy_23_lv2.json.gz",
+     "regions": 66,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_fantasy_23",
+     "file": "fantasy_23_lv3.json.gz",
+     "regions": 119,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_fantasy_23",
+     "file": "fantasy_23_lv4.json.gz",
+     "regions": 260,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_fantasy_23",
+     "file": "fantasy_23_lv5.json.gz",
+     "regions": 650,
+     "colors": 49
+    }
+   ]
+  },
+  {
+   "id": "fantasy_24",
+   "title": "마법 양탄자",
+   "titleEn": "Flying Carpet",
+   "category": "fantasy",
+   "thumb": "fantasy_24_thumb.webp",
+   "art": "fantasy_24_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#11306C",
+    "#82535C"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_fantasy_24",
+     "file": "fantasy_24_lv1.json.gz",
+     "regions": 17,
+     "colors": 5
+    },
+    {
+     "level": 2,
+     "id": "lv2_fantasy_24",
+     "file": "fantasy_24_lv2.json.gz",
+     "regions": 36,
+     "colors": 8
+    },
+    {
+     "level": 3,
+     "id": "lv3_fantasy_24",
+     "file": "fantasy_24_lv3.json.gz",
+     "regions": 131,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_fantasy_24",
+     "file": "fantasy_24_lv4.json.gz",
+     "regions": 257,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_fantasy_24",
+     "file": "fantasy_24_lv5.json.gz",
+     "regions": 587,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "fantasy_25",
+   "title": "호수 위 은하수",
+   "titleEn": "Milky Way over Lake",
+   "category": "fantasy",
+   "thumb": "fantasy_25_thumb.webp",
+   "art": "fantasy_25_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#043757",
+    "#022342"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_fantasy_25",
+     "file": "fantasy_25_lv1.json.gz",
+     "regions": 10,
+     "colors": 4
+    },
+    {
+     "level": 2,
+     "id": "lv2_fantasy_25",
+     "file": "fantasy_25_lv2.json.gz",
+     "regions": 39,
+     "colors": 10
+    },
+    {
+     "level": 3,
+     "id": "lv3_fantasy_25",
+     "file": "fantasy_25_lv3.json.gz",
+     "regions": 104,
+     "colors": 18
+    },
+    {
+     "level": 4,
+     "id": "lv4_fantasy_25",
+     "file": "fantasy_25_lv4.json.gz",
+     "regions": 260,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_fantasy_25",
+     "file": "fantasy_25_lv5.json.gz",
+     "regions": 650,
+     "colors": 43
+    }
+   ]
+  },
+  {
+   "id": "fantasy_26",
+   "title": "마법 물약 가게",
+   "titleEn": "Potion Shop",
+   "category": "fantasy",
+   "thumb": "fantasy_26_thumb.webp",
+   "art": "fantasy_26_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#563831",
+    "#9A9980"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_fantasy_26",
+     "file": "fantasy_26_lv1.json.gz",
+     "regions": 19,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_fantasy_26",
+     "file": "fantasy_26_lv2.json.gz",
+     "regions": 67,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_fantasy_26",
+     "file": "fantasy_26_lv3.json.gz",
+     "regions": 175,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_fantasy_26",
+     "file": "fantasy_26_lv4.json.gz",
+     "regions": 321,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_fantasy_26",
+     "file": "fantasy_26_lv5.json.gz",
+     "regions": 712,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "fantasy_27",
+   "title": "바닷속 유리 도시",
+   "titleEn": "Underwater Glass City",
+   "category": "fantasy",
+   "thumb": "fantasy_27_thumb.webp",
+   "art": "fantasy_27_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#23828E",
+    "#936654"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_fantasy_27",
+     "file": "fantasy_27_lv1.json.gz",
+     "regions": 20,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_fantasy_27",
+     "file": "fantasy_27_lv2.json.gz",
+     "regions": 58,
+     "colors": 10
+    },
+    {
+     "level": 3,
+     "id": "lv3_fantasy_27",
+     "file": "fantasy_27_lv3.json.gz",
+     "regions": 118,
+     "colors": 20
+    },
+    {
+     "level": 4,
+     "id": "lv4_fantasy_27",
+     "file": "fantasy_27_lv4.json.gz",
+     "regions": 227,
+     "colors": 29
+    },
+    {
+     "level": 5,
+     "id": "lv5_fantasy_27",
+     "file": "fantasy_27_lv5.json.gz",
+     "regions": 650,
+     "colors": 50
+    }
+   ]
+  },
+  {
+   "id": "fantasy_28",
+   "title": "외계 행성 우주비행사",
+   "titleEn": "Astronaut on an Alien Planet",
+   "category": "fantasy",
+   "thumb": "fantasy_28_thumb.webp",
+   "art": "fantasy_28_art.webp",
+   "size": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "#1077B7",
+    "#413396"
+   ],
+   "levels": [
+    {
+     "level": 1,
+     "id": "lv1_fantasy_28",
+     "file": "fantasy_28_lv1.json.gz",
+     "regions": 23,
+     "colors": 6
+    },
+    {
+     "level": 2,
+     "id": "lv2_fantasy_28",
+     "file": "fantasy_28_lv2.json.gz",
+     "regions": 59,
+     "colors": 12
+    },
+    {
+     "level": 3,
+     "id": "lv3_fantasy_28",
+     "file": "fantasy_28_lv3.json.gz",
+     "regions": 145,
+     "colors": 19
+    },
+    {
+     "level": 4,
+     "id": "lv4_fantasy_28",
+     "file": "fantasy_28_lv4.json.gz",
+     "regions": 276,
+     "colors": 30
+    },
+    {
+     "level": 5,
+     "id": "lv5_fantasy_28",
+     "file": "fantasy_28_lv5.json.gz",
+     "regions": 511,
      "colors": 50
     }
    ]
